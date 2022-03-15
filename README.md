@@ -1,5 +1,5 @@
-# jihoonflutter
+# JihoonFlutter
 
-A new Flutter project.
+A new Flutter project for Earth Project.
 
 
